@@ -31,5 +31,8 @@
 *.out
 *.app
 
-*/Saved
+Saved/
+Intermediate/
+Megascans/
+
 양파쿵야.jpg
